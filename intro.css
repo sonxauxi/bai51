@@ -1,0 +1,37 @@
+.intro {
+    width: 1250px;
+    /* width: 305px; */
+    height: 181px;
+    padding: 20px 0;
+    text-align: center;
+    font-family: 'roboto', sans-serif;
+    padding-left: 55px;
+}
+
+.intro1 {
+    width: 305px;
+    height: 181px;
+    padding: 20px 0;
+    float: left;
+}
+
+.introimg {
+    padding-bottom: 15px;
+}
+
+.introimg img {
+    width: 60px;
+    height: 55px;
+}
+
+.intext a {
+    font-size: 16px;
+    margin-top: 15px;
+    color: #464646;
+}
+
+.mean {
+    font-size: 14px;
+    color: #999999;
+    margin: 0 30.5px;
+}
